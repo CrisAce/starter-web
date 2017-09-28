@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Cristian Ion cristi.ion21@gmail.com
 
 # THANKS
 
