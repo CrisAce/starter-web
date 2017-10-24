@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks to all my students who participate in this training!
+    Thanks to all my students who participate in this training! Some additional text for stash example
 
 # TECHNOLOGY COLOPHON
 
